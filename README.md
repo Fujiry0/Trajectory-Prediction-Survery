@@ -1,2 +1,2 @@
-# Keio_IBM-paper-survery
-Survey of related research
+# Trajectory-Prediction-Survery
+Survey of Trajectory Prediction
